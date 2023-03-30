@@ -1,0 +1,4 @@
+
+gdb -ex 'source mkfs/trace.py' mkfs/mkfs
+
+
